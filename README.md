@@ -19,8 +19,8 @@ npm start
 
 ## When to use the package
 
-- A consumer needs the following capability: Balance and transaction reconciliation against external evidence.
-- A Financial integration needs to reuse the capabilities of @x12i/financial-reconciler inside a larger application.
+- Compare book balances and transactions with explicitly supplied external evidence.
+- Inspect unmatched or ambiguous transactions without creating a journal automatically.
 
 ## Links
 
