@@ -1,0 +1,22 @@
+{
+  "name": "financial-reconciler-usage",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Usage example for @x12i/financial-reconciler: compare a synthetic book balance with matching external evidence.",
+  "type": "module",
+  "engines": {
+    "node": ">=24"
+  },
+  "scripts": {
+    "start": "node src/index.mjs",
+    "check": "node --check src/index.mjs"
+  },
+  "dependencies": {
+    "@x12i/financial-reconciler": "1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/x12i-sdk/financial-reconciler.git"
+  },
+  "homepage": "https://www.npmjs.com/package/@x12i/financial-reconciler"
+}

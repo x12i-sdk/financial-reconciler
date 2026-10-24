@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "package": "@x12i/financial-reconciler",
+  "packageVersion": "1.0.0",
+  "npmUrl": "https://www.npmjs.com/package/@x12i/financial-reconciler",
+  "usageRepository": "https://github.com/x12i-sdk/financial-reconciler",
+  "sourceRepository": "https://github.com/x12i/finanfix",
+  "sourceCommit": "8630e4c4f201deb35cd10c3790c9d5abdbce4633",
+  "sourcePackageDirectory": "packages/reconciler",
+  "example": {
+    "title": "Compare a synthetic book balance with matching external evidence",
+    "entrypoint": "src/index.mjs",
+    "command": "npm start",
+    "requiresCredentials": false,
+    "validation": "passed",
+    "validatedAt": "2026-10-24T13:18:43.827537+00:00",
+    "isolatedInstallation": true,
+    "sourceSha256": "1a6de47b64faaf4b2be95f58435d9b631c768e72bf64a5a43f6dd4f3d6853274",
+    "manifestSha256": "f27cbf1bba93051df1972cd4c60913492abba68e3d9eb226c874bacdb434beb1"
+  }
+}
